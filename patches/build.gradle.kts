@@ -4,7 +4,7 @@ patches {
     about {
         name = "ReVanced Patches"
         description = "Patches for ReVanced"
-        source = "git@github.com:revanced/revanced-patches.git"
+        source = "git@github.com:xChickens/revanced-patches.git"
         author = "ReVanced"
         contact = "contact@revanced.app"
         website = "https://revanced.app"
@@ -48,7 +48,7 @@ publishing {
     repositories {
         maven {
             name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/revanced/revanced-patches")
+            url = uri("https://maven.pkg.github.com/xChickens/revanced-patches")
             credentials {
                 username = System.getenv("GITHUB_ACTOR")
                 password = System.getenv("GITHUB_TOKEN")
@@ -56,3 +56,4 @@ publishing {
         }
     }
 }
+
