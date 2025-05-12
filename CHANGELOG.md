@@ -1,3 +1,10 @@
+## [5.24.1-dev.1](https://github.com/xChickens/revanced-patches/compare/v5.24.0...v5.24.1-dev.1) (2025-05-12)
+
+
+### Bug Fixes
+
+* fix maven urls ([#1](https://github.com/xChickens/revanced-patches/issues/1))  ([150d5ab](https://github.com/xChickens/revanced-patches/commit/150d5abbdf14c198d18f43809425efcfb37eff04))
+
 # [5.24.0](https://github.com/xChickens/revanced-patches/compare/v5.23.0...v5.24.0) (2025-05-11)
 
 
