@@ -1,3 +1,10 @@
+# [5.24.0-dev.1](https://github.com/xChickens/revanced-patches/compare/v5.23.0...v5.24.0-dev.1) (2025-05-12)
+
+
+### Features
+
+* **syncforreddit:** add fix post thumbnails patch ([#4926](https://github.com/xChickens/revanced-patches/issues/4926)) ([ad8b01e](https://github.com/xChickens/revanced-patches/commit/ad8b01ea03fe369a3ac2b2e91643cd6cecff6b8f))
+
 # [5.23.0](https://github.com/ReVanced/revanced-patches/compare/v5.22.0...v5.23.0) (2025-05-10)
 
 
